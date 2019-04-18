@@ -1,0 +1,12 @@
+D:\VSProjects\FileSenderViaAmazonAPI\FileSenderViaAmazonAPI\bin\Debug\netcoreapp2.2\FileSenderViaAmazonAPI.deps.json
+D:\VSProjects\FileSenderViaAmazonAPI\FileSenderViaAmazonAPI\bin\Debug\netcoreapp2.2\FileSenderViaAmazonAPI.runtimeconfig.json
+D:\VSProjects\FileSenderViaAmazonAPI\FileSenderViaAmazonAPI\bin\Debug\netcoreapp2.2\FileSenderViaAmazonAPI.runtimeconfig.dev.json
+D:\VSProjects\FileSenderViaAmazonAPI\FileSenderViaAmazonAPI\bin\Debug\netcoreapp2.2\FileSenderViaAmazonAPI.dll
+D:\VSProjects\FileSenderViaAmazonAPI\FileSenderViaAmazonAPI\bin\Debug\netcoreapp2.2\FileSenderViaAmazonAPI.pdb
+D:\VSProjects\FileSenderViaAmazonAPI\FileSenderViaAmazonAPI\obj\Debug\netcoreapp2.2\FileSenderViaAmazonAPI.csproj.CoreCompileInputs.cache
+D:\VSProjects\FileSenderViaAmazonAPI\FileSenderViaAmazonAPI\obj\Debug\netcoreapp2.2\FileSenderViaAmazonAPI.AssemblyInfoInputs.cache
+D:\VSProjects\FileSenderViaAmazonAPI\FileSenderViaAmazonAPI\obj\Debug\netcoreapp2.2\FileSenderViaAmazonAPI.AssemblyInfo.cs
+D:\VSProjects\FileSenderViaAmazonAPI\FileSenderViaAmazonAPI\obj\Debug\netcoreapp2.2\FileSenderViaAmazonAPI.dll
+D:\VSProjects\FileSenderViaAmazonAPI\FileSenderViaAmazonAPI\obj\Debug\netcoreapp2.2\FileSenderViaAmazonAPI.pdb
+D:\VSProjects\FileSenderViaAmazonAPI\FileSenderViaAmazonAPI\obj\Debug\netcoreapp2.2\FileSenderViaAmazonAPI.csprojAssemblyReference.cache
+D:\VSProjects\FileSenderViaAmazonAPI\FileSenderViaAmazonAPI\bin\Debug\netcoreapp2.2\appsettings.json

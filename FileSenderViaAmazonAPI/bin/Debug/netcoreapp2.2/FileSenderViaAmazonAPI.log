@@ -1,0 +1,6 @@
+2019-04-18 17:09:52.948 +03:00 [INF] ConfigureLog() finished!
+2019-04-18 17:09:52.965 +03:00 [ERR] File \aspfile002-vlan3224\bnb_backup\testAmazonSenderApi.zip not exists!
+2019-04-18 17:10:10.976 +03:00 [INF] ConfigureLog() finished!
+2019-04-18 17:10:10.993 +03:00 [ERR] File \aspfile002-vlan3224\bnb_backup\testAmazonSenderApi.zip not exists!
+2019-04-18 17:10:10.993 +03:00 [INF] Start sending file: bucketName=s3://rezovation.eviivo.com/migrations/; path=\aspfile002-vlan3224\bnb_backup\testAmazonSenderApi.zip; keyNametestAmazonSenderApi.zip
+2019-04-18 17:10:11.095 +03:00 [ERR] Initiating the upload failed: A socket operation was attempted to an unreachable network
